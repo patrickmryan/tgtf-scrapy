@@ -1,6 +1,8 @@
 import scrapy
 from scrapy.spiders import CrawlSpider
 
+# https://coderslegacy.com/python/scrapy-extract-links-from-web-pages/
+# https://doc.scrapy.org/en/latest/intro/overview.html#
 
 # class QuotesSpider(scrapy.Spider):
 #     name = 'quotes'
